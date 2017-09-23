@@ -1,0 +1,16 @@
+Cole Petersen:
+    Cole was a helpful participant in our peer programming meetings where we laid
+    the foundations of the application, and created at least stubs for all the
+    functions we'd end up having in our final build.  During these peer programming
+    sessions, Cole participated as a `back-seat' programmer, looking up relevant
+    documentation while I acted as the scribe to write the code.
+
+Scott Hoefer:
+    Scott was also an active participant in our peer programming meetings.  Like Cole,
+    Scott's role was a `back-seat' programmer.  I was please to work with Scott as it
+    seemed that whenever I'd run out of ideas, he'd have an idea to try.
+
+Team:
+    Unfortunately, due to scheduling conflicts during the weekend of Sept. 16-17, only
+    I was able to access the application build, and am thus the only one able to make
+    traces.

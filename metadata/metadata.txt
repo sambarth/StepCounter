@@ -1,0 +1,45 @@
+stride: 22 in, 56 cm
+height: 70 in, 178 cm
+
+trace one:
+    filename: trace1.csv
+    user: sam barth
+    orientation: top down, front right pocket of jeans
+    steps taken: 60
+    gate cycles: 30
+
+trace two:
+    filename: trace2.csv
+    user: sam barth
+    orientation:  top down, front right pocket of jeans
+    steps taken: 60
+    gate cycles: 30
+
+trace three:
+    filename: trace3.csv
+    user: sam barth
+    orientation:  top down, front right pocket of jeans
+    steps taken: 60
+    gate cycles: 30
+
+trace four:
+    filename: trace4.csv
+    user: sam barth
+    orientation:  top down, back right pocket of jeans
+    steps taken: 60
+    gate cycles: 30
+
+trace five:
+    filename: trace5.csv
+    user: sam barth
+    orientation:  top down, back right pocket of jeans
+    steps taken: 60
+    gate cycles: 30
+
+trace six:
+    filename: trace6.csv
+    user: sam barth
+    orientation:  top down, back right pocket of jeans
+    steps taken: 60
+    gate cycles: 30
+    
